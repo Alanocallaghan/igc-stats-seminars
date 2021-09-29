@@ -1,4 +1,4 @@
-# Slides for two basic statistical seminars for a general biomedical audience
+#  Two general introductory statistical seminars for a biomedical audience 
 
 - Exploring data
 - Testing hypotheses and statistical power
